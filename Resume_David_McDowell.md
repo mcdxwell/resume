@@ -30,25 +30,25 @@ Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
 - ## __Technical Writing__
 - ## __Math__
 - ## __Programming languages__          
-    | __Experienced__  | __Familiar__ |
-    | ---------------- | ------------ |
-    | Python           | MATLAB       |
-    | TypeScript       | JavaScript   |
-    | C                | HTML/CSS     |
-    | C#               | GO           |
-    | SQL              | Java         |
-    | VHDL             | Mathematica  |
-    |                  |              |
-
+    | __Experienced:__  | __Familiar:__ |
+    | ----------------  | ------------  |
+    | Python            | MATLAB        |
+    | TypeScript        | JavaScript    |
+    | C                 | HTML/CSS      |
+    | C#                | GO            |
+    | SQL               | Java          |
+    | VHDL              | Mathematica   |
+    |                   |               |
+ 
 
 - ## __Tools__
-    | __Experienced__  | __Familiar__ |
-    | ---------------- | ------------ |
-    | VSCode           | Eclipse      |
-    | VI/VIM           | PowerShell   |
-    | Bash             | Unity        |
-    | Insomnia         | VStudio      |
-    | Git/GitHub       | Wireshark    |
+    | __Experienced:__  | __Familiar:__  |
+    | ----------------  | ------------   |
+    | VSCode            | Eclipse        |
+    | VI/VIM            | PowerShell     |
+    | Bash              | Unity          |
+    | Insomnia          | VStudio        |
+    | Git/GitHub        | Wireshark      |
 
 
 - ## __Operating Systems__
