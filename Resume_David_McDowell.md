@@ -79,6 +79,7 @@ Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
 - Software Engineering - Agile - Scrum - REST APIs - GraphQL - Web Development - Game Development - Linux - Bash - Kubernetes - Docker - Containers - Git - GitHub
 - Math -  Data Structures - Algorithms
 - Machine Learning - Automation - Research - Internship - PyTorch - TensorFlow
-- Infrastructure - Cybersecurity - Information Security - Data - Encryption - SAP ERP - SAP S/4HANA   
+- Infrastructure - Cybersecurity - Information Security - Data - Encryption - SAP ERP - SAP S/4HANA
+- AWS - Google Cloud - Azure - GOLANG
 - FinTech - Startups
 ----
