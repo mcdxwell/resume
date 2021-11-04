@@ -54,7 +54,7 @@ Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
 | Bash              | Unity          |
 | Insomnia          | VStudio        |
 | Git/GitHub        | Wireshark      |
-|                   |                |
+|         -         |       -        |
 
 
 </td></tr> </table>
