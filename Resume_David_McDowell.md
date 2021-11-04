@@ -1,6 +1,9 @@
 
+
+
 ---
 # __*David Alejandro McDowell*__
+###### Location: Houston, Texas
 ###### Contact: itsdavzz@gmail.com
 ----
 ## __🎓Education:__
@@ -27,41 +30,52 @@ Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
 ----
 
 ## __👨‍💻Technical skills:__
-- ## __Technical Writing__
-- ## __Math__
-- ## __Programming languages__          
-    | __Experienced:__  | __Familiar:__ |
-    | ----------------  | ------------  |
-    | Python            | MATLAB        |
-    | TypeScript        | JavaScript    |
-    | C                 | HTML/CSS      |
-    | C#                | GO            |
-    | SQL               | Java          |
-    | VHDL              | Mathematica   |
-    |                   |               |
- 
-
-- ## __Tools__
-    | __Experienced:__  | __Familiar:__  |
-    | ----------------  | ------------   |
-    | VSCode            | Eclipse        |
-    | VI/VIM            | PowerShell     |
-    | Bash              | Unity          |
-    | Insomnia          | VStudio        |
-    | Git/GitHub        | Wireshark      |
 
 
-- ## __Operating Systems__
+<table>
+<tr><th>Programming languages</th><th>Tools</th></tr>
+<tr><td>
+
+| __Experienced:__  | __Familiar:__ |
+| ----------------  | ------------  |
+| Python            | MATLAB        |
+| TypeScript        | JavaScript    |
+| C                 | HTML/CSS      |
+| C#                | GO            |
+| SQL               | Java          |
+| VHDL              | Mathematica   |
+
+</td><td>
+
+| __Experienced:__  | __Familiar:__  |
+| ----------------  | ------------   |
+| VSCode            | Eclipse        |
+| VI/VIM            | PowerShell     |
+| Bash              | Unity          |
+| Insomnia          | VStudio        |
+| Git/GitHub        | Wireshark      |
+----
+----
+----
+
+
+</td></tr> </table>
+
+
+  ### __Operating Systems__
   - Windows
   - Linux (Ubuntu)
-- ## __Databases__
+  ### __Databases__
   - PostreSQL
   - MySQL
+
+  ### __Technical Writing__
+  ### __Math__
 ----
 
 
 ## __📑Projects:__
-  |        __Personal projects__      |                                            __Description__                                                     | __Language(s)__   |
+  |        __Personal projects:__      |                                            __Description:__                                                     | __Language(s):__   |
   | --------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------- | 
   | Blog                              | Django web framework and bootstrapper were used to create a basic blog.                                        | Python & HTML/CSS |
   | Mosquito Bite Calculator | Equations, heuristics, and math are used to calculate how many mosquito bites it would take for one to perish.          | Python            |
@@ -69,7 +83,7 @@ Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
   | WebScraper | Used BS4 to scrape product information - stored information into MySQL DB. | Python/SQL | 
 
 
-  | __School projects__  |                                                 __Description__                                                     | __Language(s)__  |
+  | __School projects:__  |                                                 __Description:__                                                     | __Language(s):__  |
   | ---------------------| ------------------------------------------------------------------------------------------------------------------- | ---------------  | 
   | Social Media Website | Senior project (in progress):  users may create threads/forums, organize meetings, and use a live text chat.        | TS/JS & HTML/CSS |
   | 2D Games             | Created several games with Unity                                                                                    | C#               |
@@ -77,9 +91,10 @@ Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
 
 ## __💻Interests:__
 - Software Engineering - Agile - Scrum - REST APIs - GraphQL - Web Development - Game Development - Linux - Bash - Kubernetes - Docker - Containers - Git - GitHub
-- Math -  Data Structures - Algorithms
+- Math -  Data Structures - Algorithms - Functional Programming
 - Machine Learning - Automation - Research - Internship - PyTorch - TensorFlow
 - Infrastructure - Cybersecurity - Information Security - Data - Encryption - SAP ERP - SAP S/4HANA
 - AWS - Google Cloud - Azure - GOLANG
 - FinTech - Startups
 ----
+
