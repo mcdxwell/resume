@@ -18,7 +18,7 @@ __Associate of Arts in General Studies,__ Lee College, Baytown, TX. (Dec. 2018)
 
 
 ## __🏆Experience:__
-Student Researcher with XSEDE EMPOWER: [Pathfinding with Assistance of UAV for Multiple Targets (Learner Position)](http://computationalscience.org/xsede-empower/positions/337)
+Student Research Assistant, funded by XSEDE EMPOWER: [Pathfinding with Assistance of UAV for Multiple Targets (Learner Position)](http://computationalscience.org/xsede-empower/positions/337)
 
 - Presented research at a virtual event hosted by [The Technical Committee 17 of IMEKO (est. in 1987).](https://imeko.org/index.php/tc17-homepage) 
 
