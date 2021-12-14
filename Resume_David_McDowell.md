@@ -7,7 +7,8 @@
 ###### Contact: itsdavzz@gmail.com
 ----
 ## __🎓Education:__
-__Bachelor of Science: Computer Science,__ University of Houston-Clear Lake, Houston, TX. (Dec. 2021) 
+__Bachelor of Science: Computer Science,__ University of Houston-Clear Lake, Houston, TX. (Dec. 2021)
+
 __Associate of Arts in General Studies,__ Lee College, Baytown, TX. (Dec. 2018)
 
 ----
