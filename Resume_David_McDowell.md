@@ -39,8 +39,8 @@ Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
 ## __📑Projects:__
   | __School projects:__ |                                                 __Description:__                                                     | __Language(s):__ |
   | ---------------------| -------------------------------------------------------------------------------------------------------------------  | ---------------  | 
-  | Educational Social Media Web App | Users may create and discuss educational content via a forum's LIVE text chat or by posting a thread     | TS/HTML/CSS      |
-  | 2D Games             | Created several games with Unity                                                                                     | C#               |
+  | Educational Social Media Web App | Users may create and discuss educational content via LIVE text chats or by posting a thread              | TS/HTML/CSS      |
+  | 2D Games             | Created a variety of games similar to 8-Ball Pool, Flappy Bird, Space Invaders, Mario etc.                           | C#               |
 
 ----
 
