@@ -1,32 +1,25 @@
+# ***David Alejandro McDowell***
+ 
+| 📧 Email: mcdxwell@gmail.com | ☁ [Website](https://www.davz.dev) | 👨‍💻 [GitHub](https://github.com/mcdxwell) | 🌐 [Linkedin](https://www.linkedin.com/in/mcdxwell/) |
+|-|-|-|-|
 
+## **🎓Education:**
+**Bachelor of Science: Computer Science,** University of Houston-Clear Lake, Houston, TX. (Dec. 2021)
 
-
----
-# __*David Alejandro McDowell*__
-###### Location: Houston, Texas
-###### Contact: itsdavzz@gmail.com
-----
-## __🎓Education:__
-__Bachelor of Science: Computer Science,__ University of Houston-Clear Lake, Houston, TX. (Dec. 2021)
-
-__Associate of Arts in General Studies,__ Lee College, Baytown, TX. (Dec. 2018)
+**Associate of Arts in General Studies,** Lee College, Baytown, TX. (Dec. 2018)
 
 ----
 
-## __🏆Experience:__
+## **🏆Experience:**
 Student Research Assistant, funded by XSEDE EMPOWER: [Pathfinding with Assistance of UAV for Multiple Targets (Learner Position)](http://computationalscience.org/xsede-empower/positions/337)
 
 - Presented research at a virtual event hosted by [The Technical Committee 17 of IMEKO (est. in 1987).](https://imeko.org/index.php/tc17-homepage) 
 
 Former Lead Math Tutor for Mathnasium of Baytown, TX. (Aug. 2018 - Jan. 2020)
 
-Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
-
-- (Unrelated to crypto/NFTs)
-
 ----
 
-## __💻Interests:__
+## **💻Interests:**
 - Software Engineering - Agile - Scrum - REST APIs - GraphQL - Web Development - Game Development - Linux - Bash - Kubernetes - Docker - Containers - Git - GitHub
 - Math -  Data Structures - Algorithms - Functional Programming
 - Machine Learning - Automation - Research - Internship - PyTorch - TensorFlow
@@ -36,15 +29,15 @@ Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
   
 ----
 
-## __📑Projects:__
-  | __School projects:__ |                                                 __Description:__                                                     | __Language(s):__ |
+## **📑Projects:**
+  | **School projects:** |                                                 **Description:**                                                     | **Language(s):** |
   | ---------------------| -------------------------------------------------------------------------------------------------------------------  | ---------------  | 
   | Educational Social Media Web App | Users may create and discuss educational content via LIVE text chats or by posting threads.              | TS/HTML/CSS      |
   | 2D Games             | Created a variety of games similar to 8-Ball Pool, Flappy Bird, Space Invaders, Mario, etc.                          | C#               |
 
 ----
 
-  |        __Personal projects:__     |                                            __Description:__                                                    | __Language(s):__  |
+  |        **Personal projects:**     |                                            **Description:**                                                    | **Language(s):**  |
   | --------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------- |
   | Mosquito Bite Calculator | Heuristics and mathematical equations are used to calculate how many mosquito bites it would take for one to perish.          | Python            | 
   | TwitterBOT | Used Tweepy to access Twitter API - integrated my mosquito calc. - bot responds to users their mosquito count.                        | Python            |
@@ -53,13 +46,13 @@ Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
 
 ----
 
-## __👨‍💻Technical skills:__
+## **👨‍💻Technical skills:**
 
 <table>
 <tr><th>Programming languages</th><th>Tools</th></tr>
 <tr><td>
 
-| __Experienced:__  | __Familiar:__ |
+| **Experienced:**  | **Familiar:** |
 | ----------------  | ------------  |
 | Python            | MATLAB        |
 | TypeScript        | JavaScript    |
@@ -70,7 +63,7 @@ Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
 
 </td><td>
 
-| __Experienced:__  | __Familiar:__  |
+| **Experienced:**  | **Familiar:**  |
 | ----------------  | ------------   |
 | VSCode            | Eclipse        |
 | VI/VIM            | PowerShell     |
@@ -82,20 +75,20 @@ Ecommerce - buy, sell, and trade digital assets. (Jan. 2020 - present)
 </td></tr> </table>
 
 
-  ### __Operating Systems__
+  ### **Operating Systems**
   - Windows
   - Linux (Ubuntu)
-  ### __Databases__
+  ### **Databases**
   - PostreSQL
   - MySQL
   
-  ### __Math__
+  ### **Math**
   - Calculus
   - Differential Equations
   - Discrete Math
   - Linear Algebra
 
-  ### __Technical Writing__
+  ### **Technical Writing**
 ----
 
 
