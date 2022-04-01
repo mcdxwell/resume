@@ -18,15 +18,16 @@ Former Lead Math Tutor for Mathnasium of Baytown, TX. (Aug. 2018 - Jan. 2020)
 ----
 
 ## **📑 Projects:**
-  |                                                                           |
-  |-------------------------------------------------------------------------- |
-  |[Davz.dev](https://www.davz.dev)                                           |
-  |[Word of the Day](https://github.com/mcdxwell/wotd)                        |
-  |[Skeetr](https://mcdxwell.github.io/skeetr/)                               |
-  |[Brick Breaker](https://github.com/mcdxwell/school/tree/main/BrickBreaker) |
-  |[8-Ball Pool](https://github.com/mcdxwell/school/tree/main/8BallPool)      |
-  |[Flappy Bird-like Game](https://github.com/mcdxwell/school/tree/main/Birdy)|
-  |                                                                           |
+  |                                                                            |
+  | -------------------------------------------------------------------------- |
+  | [Davz.dev](https://www.davz.dev)                                           |
+  | [Sieve of Atkin](https://github.com/mcdxwell/sieve-of-atkin)               |
+  | [Word of the Day](https://github.com/mcdxwell/wotd)                        |
+  | [Skeetr](https://mcdxwell.github.io/skeetr/)                               |
+  | [Brick Breaker](https://github.com/mcdxwell/school/tree/main/BrickBreaker) |
+  | [8-Ball Pool](https://github.com/mcdxwell/school/tree/main/8BallPool)      |
+  | [Flappy Bird-like Game](https://github.com/mcdxwell/school/tree/main/Birdy)|
+  |                                                                            |
 
 ----
 
